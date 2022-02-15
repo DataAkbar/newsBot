@@ -1,0 +1,92 @@
+{
+    "529348": {
+        "article_date_timestamp": 1643650398.0,
+        "article_title": "Клиенты Сбербанка смогут доверить проверку своих онлайн-переводов близким",
+        "article_url": "https://www.securitylab.ru/news/529348.php",
+        "article_desc": "Таким помощником может выступить кто-то из родственников."
+    },
+    "529347": {
+        "article_date_timestamp": 1643649785.0,
+        "article_title": "Один из арестованных киберпреступников Revil оказался известным ресторатором Санкт-Петербурга",
+        "article_url": "https://www.securitylab.ru/news/529347.php",
+        "article_desc": "Подозреваемый Даниил Пузыревский владеет винным заведением"
+    },
+    "529346": {
+        "article_date_timestamp": 1643649368.0,
+        "article_title": "Киберпреступники могут использовать смарт-часы для кражи персональных данных",
+        "article_url": "https://www.securitylab.ru/news/529346.php",
+        "article_desc": "Об этом рассказали аналитики Eset"
+    },
+    "529345": {
+        "article_date_timestamp": 1643648285.0,
+        "article_title": "Lazarus Использует Центр обновления Windows для развертывания вредоносного кода на целевых объектах",
+        "article_url": "https://www.securitylab.ru/news/529345.php",
+        "article_desc": "Цель Lazarus — проникнуть в правительственные структуры США"
+    },
+    "529340": {
+        "article_date_timestamp": 1643630319.0,
+        "article_title": "NFT могут раскрывать IP-адреса пользователей",
+        "article_url": "https://www.securitylab.ru/news/529340.php",
+        "article_desc": "В то время как пользователи коллекционируют NFT, NFT в свою очередь коллекционируют IP-адреса пользователей."
+    },
+    "529339": {
+        "article_date_timestamp": 1643625224.0,
+        "article_title": "Более 20 тыс. систем управления дата-центрами уязвимы к хакерским атакам",
+        "article_url": "https://www.securitylab.ru/news/529339.php",
+        "article_desc": "Потенциальный хакер мог причинить физический ущерб, стереть данные, разрушить IT-системы и пр."
+    },
+    "529333": {
+        "article_date_timestamp": 1643623758.0,
+        "article_title": "Китай намерен усилить контроль над использованием дипфейков",
+        "article_url": "https://www.securitylab.ru/news/529333.php",
+        "article_desc": "Власти обяжут компании проверять личности пользователей и продвигать китайские социалистические ценности."
+    },
+    "529330": {
+        "article_date_timestamp": 1643622311.0,
+        "article_title": "Следователи раскрыли \"билетную аферу\" с использованием сайтов-двойников",
+        "article_url": "https://www.securitylab.ru/news/529330.php",
+        "article_desc": "Преступники создали двойники сайтов наиболее популярных театров и с их помощью продавали билеты по завышенным в разы от официальных ценам."
+    },
+    "529329": {
+        "article_date_timestamp": 1643621597.0,
+        "article_title": "Простой трюк позволяет читать удаленные сообщения в WhatsApp на Android",
+        "article_url": "https://www.securitylab.ru/news/529329.php",
+        "article_desc": "Также можно восстановить изображения, видео, анимированные гифки, документы, стикеры и голосовые сообщения."
+    },
+    "529327": {
+        "article_date_timestamp": 1643620388.0,
+        "article_title": "Security-новости от Александра Антипова (securitylab.ru). Выпуск #46",
+        "article_url": "https://www.securitylab.ru/news/529327.php",
+        "article_desc": "Сорок шестой выпуск security-новостей с Александром Антиповым, главредом Securitylab.ru"
+    },
+    "529318": {
+        "article_date_timestamp": 1643612139.0,
+        "article_title": "Карибская цифровая валюта DCash вторую неделю находится в offline-режиме",
+        "article_url": "https://www.securitylab.ru/news/529318.php",
+        "article_desc": "Центральный банк совместно с поставщиком услуг Bitt занимаются восстановлением работы компьютерных систем."
+    },
+    "529316": {
+        "article_date_timestamp": 1643609225.0,
+        "article_title": "Для корректной установки обновлений Windows-ПК должен быть online не менее 8 часов",
+        "article_url": "https://www.securitylab.ru/news/529316.php",
+        "article_desc": "Устройства, которые не были подключены к Сети в течение определенного периода времени, вряд ли успешно обновятся."
+    },
+    "529315": {
+        "article_date_timestamp": 1643607363.0,
+        "article_title": "Ученые разработали невидимые для человеческого глаза идентификационные метки",
+        "article_url": "https://www.securitylab.ru/news/529315.php",
+        "article_desc": "В основе разработки ученых лежит специальный пластик для 3D-печати, пропускающий инфракрасный свет."
+    },
+    "529314": {
+        "article_date_timestamp": 1643604595.0,
+        "article_title": "ФБР намеревалось купить шпионское ПО для взлома любого телефона в США",
+        "article_url": "https://www.securitylab.ru/news/529314.php",
+        "article_desc": "Бюро могло заинтересоваться инструментом Phantom потому, что шпионское ПО Pegasus от NSO не работало с телефонами в США."
+    },
+    "529313": {
+        "article_date_timestamp": 1643603166.0,
+        "article_title": "Цифровые отпечатки GPU позволяют отслеживать пользователей в Сети",
+        "article_url": "https://www.securitylab.ru/news/529313.php",
+        "article_desc": "Метод под названием DrawnApart увеличил продолжительность слежки до 67% по сравнению с современными методами."
+    }
+}
